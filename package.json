@@ -202,8 +202,8 @@
     "webpack-node-externals": "1.7.2"
   },
   "dependencies": {
-    "@uplo-tech/react-filemanager": "1.0.1",
-    "@uplo-tech/uplo.js": "1.0.2",
+    "@eddiewang/react-filemanager": "1.0.1",
+    "uplo.js": "1.0.2",
     "@expo/spawn-async": "1.4.0",
     "@opuscapita/react-filemanager-connector-node-v1": "1.1.0-beta.4",
     "@opuscapita/react-svg": "4.0.0",
@@ -257,7 +257,7 @@
     "redux-thunk": "^2.1.0",
     "reselect": "4.0.0",
     "uplo-opus-connector": "1.0.13",
-    "uplo-typescript": "1.2.3",
+    "uplo-typescript": "1.4.19",
     "source-map-support": "^0.5.0",
     "strip-ansi": "5.2.0",
     "styled-components": "4.1.3",
