@@ -7,7 +7,7 @@
   "author": {
     "name": "David Gilbert",
     "email": "david@purpyl.com.au",
-    "url": "https://github.com/DavidMGilbert"
+    "url": "https://github.com/uplo-tech"
   },
   "scripts": {
     "postinstall": "electron-builder install-app-deps"
